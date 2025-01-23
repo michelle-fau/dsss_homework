@@ -7,3 +7,10 @@ down-left corner.
 - Font: Arial, Font-size: > 10 Pt.
 - Answer all the questions and solve all the tasks requested.
 - Be careful with plagiarism. Repeated solutions will not be accepted!
+numpy~=1.21.6
+matplotlib~=3.5.3
+setuptools~=68.0.0
+tensorflow~=2.11.0
+requests~=2.31.0
+python-dotenv~=0.21.1
+python-telegram-bot==20.3
